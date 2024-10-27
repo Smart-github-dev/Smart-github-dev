@@ -4,7 +4,7 @@ I'm a passionate developer with expertise in web development, game development, 
 
 ## 🔭 What I'm currently working on
 - Building a new blockchain-based decentralized application
-- Developing a 3D game using Unity
+- Developing a 2S,3D game using Unity and Cocos
 - Creating a portfolio website to showcase my projects
 
 ## 🌱 What I'm currently learning
