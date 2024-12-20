@@ -13,8 +13,9 @@ I'm a passionate developer with expertise in web development, game development, 
 - Studying the latest web development frameworks and tools
 
 ## 💬 Ask me about
-- Web development using HTML, CSS, JavaScript, and frameworks like React and Vue.js
-- Game development with Unity or other game engines
+- Web development using HTML, CSS, JavaScript, and frameworks like React, Next.js and Vue.js
+- Database Optimization (SQL, Mongodb, PostgreSQL, MSSQL, SQLite3)
+- Game development with Unity, Cocos or other game engines
 - Blockchain technology, smart contracts, and decentralized applications
 
 ## 📫 How to reach me
