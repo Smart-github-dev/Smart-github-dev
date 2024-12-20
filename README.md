@@ -18,10 +18,6 @@ I'm a passionate developer with expertise in web development, game development, 
 - Game development with Unity, Cocos or other game engines
 - Blockchain technology, smart contracts, and decentralized applications
 
-## 📫 How to reach me
-- Email: users.suppo.team@gmail.com
-- Telegram: @teimote
-- Skype: live:.cid.72614266c8476b1b
 ## ⚡ Fun fact
 I enjoy participating in game jams and hackathons to challenge my creativity and skills.
  
